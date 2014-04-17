@@ -1,5 +1,4 @@
-ApplicationIA
+Aplicação - Inteligência Artificial
 =============
 
-Aplicação de Inteligencia Artificial
-teste
+Bacharel em Sistemas de Informação

@@ -1,9 +1,9 @@
 SNNS pattern definition file V3.2
-generated at Mon Apr 25 15:58:23 1994
+generated at Mon Apr 25 15:58:23 2014
 
 No. of patterns: 3
 No. of input units: 400
-No. of output units: 4
+No. of output units: 5
 
 
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 

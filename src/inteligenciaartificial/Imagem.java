@@ -99,7 +99,7 @@ public class Imagem {
         String cabecalho = 
                 "SNNS pattern definition file V3.2" +
                 "\n" + 
-                "generated at Mon Apr 25 15:58:23 1994" + 
+                "generated at Mon Apr 25 15:58:23 2014" + 
                 "\n" + 
                 "\n" + 
                 "No. of patterns: " + patterns +

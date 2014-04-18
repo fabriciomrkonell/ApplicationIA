@@ -15,7 +15,7 @@ public class InteligenciaArtificial {
         String[] imagens = { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j"};
         String[] tipo = { "1", "2"};
         
-        obj.criarCabecalho("3", "400", "4");
+        obj.criarCabecalho("3", "400", "4");        
         
         for (String aluno : alunos) {
             for (String imagen : imagens) {
